@@ -1,0 +1,1 @@
+start pyenv\Scripts\activate.bat

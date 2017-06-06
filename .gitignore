@@ -1,0 +1,6 @@
+/es_test.egg-info
+/pyenv
+/.tox
+/elasticsearch-5.4.0/data/*
+/elasticsearch-5.4.0/logs/*
+*.pyc
